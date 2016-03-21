@@ -5,7 +5,10 @@
 
 # 使用方法 
 1.导入.h头文件
+
 2.直接使用UIColor拓展的两个类方法
+
+3.使用格式鉴格式文档
 
 
 # 类方法如下 👇
@@ -29,3 +32,5 @@
  *  @return UIColor
  */
 + (UIColor *)colorWithHexString:(NSString *)color alpha:(CGFloat)alpha;
+
+
